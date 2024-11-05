@@ -1,32 +1,61 @@
 ## Hi there 👋
+# Hello, I'm Gresecure !
+<a href="https://www.linkedin.com/in/greeshmaanitha/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--\About Me
-**’m a cybersecurity professional with an M.Sc. in Cyber Security and Computer Forensics, along with hands-on experience in network security, incident response, and digital investigations. My interests lie in securing systems, exploring threat landscapes, and applying OSINT techniques for analysis and data gathering.
-Skills
-Operating System : Linux, Windows
-Virtualization : VMware ,VirtualBox
-Microsoft Office 365: Microsoft Office, Excel,Powerpoint, Outlook
-Networking: LAN/WAN, TCP/IP, DNS, DHCP, Routing and Switching,OSI stack.
-Software troubleshooting: Ticketing tools knowledge, customer service, documentation.
-Compliance & Security knowledge: ISO 27001, HIPAA, GDPR, NIST framework,PCI-DSS
-Cyber security: Top 10 OWASP,SIEM,Cyber threat actors & vectors, IDS/IPS, MITRE Attack framework, cryptography
-File System concepts: NTFS, FAT, ext4, HFS+
-OSINT: Maltego,theHarvester, SpiderFoot, SOCMINT, geolocation identification (beginner).
-Networking: LAN/WAN, TCP/IP, DNS, DHCP, Routing and Switching,OSI stack.
-Dark web: Tor browser ( beginner)
-Communication: Excellent Written and Verbal Communication.
-Problem-Solving: Strong Analytical and Troubleshooting Skills
-Soft Skills: Adaptability, Commitment, Teamwork, Resilient,Self-starter, Attention to detail.
-Tools: Wireshark, Nmap, Burp Suite, Splunk, Wazuh
-Certifications: CCNA, CHFI
+## About Me
 
-PROJECT 
-Longitudinal Study on Sharenting
-A personal research project examining the effects of online sharing on children’s digital identity.
+Cybersecurity | Digital Forensics| Data Privacy and Security | OSINT |
 
-OSINT Image Analysis & Geolocation
-Hands-on project using OSINT tools for data sourcing and geolocation analysis.
 
-Home Lab
-Set up a home lab environment with Wazuh and Splunk for threat detection and data analysis.
 
+## Objective
+[Provide Objective - Remove this afterwards]]
+
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Skills
+
+| Skill                           |                                                                               |
+|--------------------------------|------------------------------------------------------------------------------- |
+| Operating System               | Windows, Linux                                                                 |
+| Networking                     | LAN/WAN, TCP/IP, DNS, DHCP, Routing and Switching,OSI stack                    |
+| Cyber Security                 | Top 10 OWASP,Cyber threat actors & vectors,MITRE Attack framework, cryptography|
+| Compliance knowledge           | ISO 27001, HIPAA, GDPR, NIST framework,PCI-DSS                                 |
+| OSINT                          | Maltego,theHarvester, SpiderFoot, SOCMINT, Geolocation identification, HUMINT  |
+
+
+## Tools
+
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+## Certifications
+<div>
+   <img src="https://www.webasha.com/uploads/course/images/6687d4f90689e1720177913.CHFI-Training-and-certification.jpg" width="120" />
+    <img src="https://miro.medium.com/v2/resize:fit:560/1*IuPNkY-vhY51QxRWfIXKgw.png" width="120" />
+</div>
+
+
+
+## Projects
+- Analysis and Mitigation of Impersonation on Social Media. | Academic Project |
+- Open Source Intelligence (OSINT) Research – Image Analysis & Geolocation |Personal project
+- Developed and managed a home lab environment. | Self intiated study
+- Longitudinal Study on the Impact of Sharenting on Children's Digital Identity. In progress  | Personal project
