@@ -9,9 +9,7 @@ Cybersecurity | Digital Forensics| Data Privacy and Security | OSINT |
 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Cybersecurity enthusiast with an M.Sc. in Cyber Security, passionate about developing secure solutions and sharing knowledge. Using GitHub to build a portfolio of projects focused on network security, threat analysis, and OSINT research. Eager to collaborate on open-source security tools and contribute to projects that enhance digital security across industries
 
 ## Skills
 
